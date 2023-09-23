@@ -1,0 +1,110 @@
+{
+  "login": {
+    "welcome_back": "Xush kelibsiz!",
+    "phone_number": "Telefon raqami",
+    "password": "Parol",
+    "login": "KIRISH"
+  },
+  "dashboard": {
+    "active": "Faol",
+    "frozen": "Muzlatilgan",
+    "deleted": "O'chirilgan",
+    "trial_period": "Sinov muddatida"
+  },
+  "companies": {
+    "home": "Asosiy",
+    "companies": "Kompaniyalar",
+    "add_new_company": "Yangi kompaniya qo'shish",
+    "company_name": "Kompaniya nomi",
+    "subdomain": "Subdomain",
+    "company_number": "Kompaniya raqami",
+    "select_status": "Holatni tanlang",
+    "timeline": "Ish Vaqti",
+    "created_at": "YARATILGAN",
+    "phone_number": "TELEFON RAQAMI",
+    "actions": "AMALLAR",
+    "opens_at": "Ochiladi",
+    "closes_at": "Yopiladi",
+    "about_company": "Kompaniya haqida",
+    "company_logo": "Kompaniya logotipi",
+    "create_new_company": "Yangi kompaniya yarating",
+    "freeze_btn": "Muzlatish"
+  },
+  "company": {
+    "courses": "Kurslar",
+    "branches": "Filiallar",
+    "staff": "Xodimlar",
+    "students": "Talabalar",
+    "info": "Ma'lumot",
+    "payments": "To'lovlar",
+    "course": {
+      "course_name": "Kurs nomi",
+      "price": "Narx",
+      "status": "Holat",
+      "duration_month": "Davomiylik",
+      "lesson": "Dars soni"
+    },
+    "branch": {
+      "branch_name": "Filial nomi",
+      "status": "Holat",
+      "balance": "Balans",
+      "created_at": "Yaratilgan",
+      "action": "Ammallar",
+      "add_branches": "Filiallarni qo'shish",
+      "create_new_branch": "Yangi Filial Yaratish"
+    },
+    "staffs": {
+      "full_name": "To'liq ism",
+      "gender": "Jins",
+      "status": "Holat",
+      "number": "Raqam",
+      "balance": "Balans",
+      "roles": "Rollar",
+      "date_of_birth": "Tug'ilgan kuni",
+      "actions": "Harakatlar",
+      "add_staff": "Xodimlarni qo'shish",
+      "create_staff": "Xodimlarni yaratish",
+      "phone_number": "Telefon raqami",
+      "password": "Parol"
+    },
+    "student": {
+      "active_students": "Faol talabalar"
+    },
+    "payment": {
+      "life_time": "Muddat",
+      "all": "Jami",
+      "date": "Sana",
+      "add_payment": "To'lovni qo'shish",
+      "amount": "Miqdori"
+    }
+  },
+  "validation": {
+    "please_fill_out_the_field": "Maydonni toʻldiring!",
+    "characters_required_at_least": "ta kamida belgilar bo'lsin",
+    "characters_limit": "ta Belgilar chegarasi"
+  },
+  "common": {
+    "edit": "Tahrirlash",
+    "frozen": "Muzlatilgan",
+    "create": "Yaratish",
+    "no_data": "Ma'lumotlar yo'q",
+    "active": "Faol",
+    "deleted": "O'chirilgan",
+    "trial_period": "Sinov muddatida",
+    "delete": "O'chirish",
+    "male": "Erkak",
+    "female": "Ayol"
+  },
+  "sidebar": {
+    "companies": "Kompaniyalar",
+    "notification": "Bildirishnoma",
+    "settings": "Sozlamalar",
+    "logout": "Chiqish"
+  },
+  "notification": {
+    "notification": "Bildirishnoma"
+  },
+  "header": {
+    "languages": "Tillar"
+  }
+}

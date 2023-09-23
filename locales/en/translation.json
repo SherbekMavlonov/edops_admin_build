@@ -1,0 +1,110 @@
+{
+  "login": {
+    "welcome_back": "Welcome back!",
+    "phone_number": "Phone number",
+    "password": "Password",
+    "login": "LOGIN"
+  },
+  "dashboard": {
+    "active": "Active",
+    "frozen": "Frozen",
+    "deleted": "Deleted",
+    "trial_period": "Trial Period"
+  },
+  "companies": {
+    "home": "Home",
+    "companies": "Companies",
+    "add_new_company": "Add New Company",
+    "company_name": "Company Name",
+    "subdomain": "Subdomain",
+    "company_number": "Company Number",
+    "select_status": "Select Status",
+    "timeline": "TIMELINE",
+    "created_at": "CREATED AT",
+    "phone_number": "PHONE NUMBER",
+    "actions": "ACTIONS",
+    "opens_at": "Opens at",
+    "closes_at": "Closes at",
+    "about_company": "About Company",
+    "company_logo": "Company Logo",
+    "create_new_company": "Create new company",
+    "freeze_btn": "Freeze"
+  },
+  "company": {
+    "courses": "Courses",
+    "branches": "Branches",
+    "staff": "Staff",
+    "students": "Students",
+    "info": "Info",
+    "payments": "Payments",
+    "course": {
+      "course_name": "Course Name",
+      "price": "Price",
+      "status": "Status",
+      "duration_month": "Duration Month",
+      "lesson": "Count"
+    },
+    "branch": {
+      "branch_name": "Branch Name",
+      "status": "Status",
+      "balance": "Balance",
+      "created_at": "Created At",
+      "action": "Action",
+      "add_branches": "Add Branches",
+      "create_new_branch": "Create New Branch"
+    },
+    "staffs": {
+      "full_name": "Full Name",
+      "gender": "Gender",
+      "status": "Status",
+      "number": "Number",
+      "balance": "Balance",
+      "roles": "Roles",
+      "date_of_birth": "Date Of Birth",
+      "actions": "Actions",
+      "add_staff": "Add Staff",
+      "create_staff": "Create Staff",
+      "phone_number": "Phone number",
+      "password": "Password",
+      "student": {
+        "active_students": "Active Students"
+      },
+      "payment": {
+        "life_time": "Muddat",
+        "all": "Total",
+        "date": "Date",
+        "add_payment": "Add Payment",
+        "amount": "Amount"
+      }
+    }
+  },
+  "validation": {
+    "please_fill_out_the_field": "Please fill out the field!",
+    "characters_required_at_least": "characters required at least",
+    "characters_limit": "Characters limit"
+  },
+  "common": {
+    "edit": "Edit",
+    "frozen": "Frozen",
+    "create": "Create",
+    "no_data": "No Data",
+    "active": "Active",
+    "deleted": "Deleted",
+    "trial_period": "Trial Period",
+    "delete": "Delete",
+    "male": "Male",
+    "female": "Female"
+  },
+  "sidebar": {
+    "companies": "Companies",
+    "notification": "Notification",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "notification": {
+    "notification": "Notification"
+  },
+  "header": {
+    "languages": "Languages"
+  }
+}
