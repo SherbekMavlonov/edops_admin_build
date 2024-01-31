@@ -9,7 +9,28 @@
     "active": "Active",
     "frozen": "Frozen",
     "deleted": "Deleted",
-    "trial_period": "Trial Period"
+    "trial_period": "Trial Period",
+    "from_date": "From Date",
+    "date_to": "Date To",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "May": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December",
+    "companies": "Companies",
+    "student": "Student",
+    "staff": "Staff",
+    "companies_using_edops": "Companies using EDOPS",
+    "Students": "Students",
+    "all_students_in_companies": "All Students In Companies",
+    "all_employees_in_companies": "All Employees In Companies"
   },
   "companies": {
     "home": "Home",
@@ -28,7 +49,9 @@
     "about_company": "About Company",
     "company_logo": "Company Logo",
     "create_new_company": "Create new company",
-    "freeze_btn": "Freeze"
+    "freeze_btn": "Freeze",
+    "company_created_successfully": "Company created successfully",
+    "company_update_successfully": "Company Update successfully"
   },
   "company": {
     "courses": "Courses",
@@ -51,7 +74,14 @@
       "created_at": "Created At",
       "action": "Action",
       "add_branches": "Add Branches",
-      "create_new_branch": "Create New Branch"
+      "create_new_branch": "Create New Branch",
+      "success_created_branch": "Branch successfully created",
+      "branch_successfully_updated": "Branch successfully updated",
+      "edit_branch": "Edit Branch",
+      "update": "Update",
+      "branch_successfully_deleted": "Branch successfully deleted",
+      "are_you_sure_to_delete_this_branch": "Are you sure to delete this branch",
+      "employee_is_successfully_created": "Employee Is Successfully Created"
     },
     "staffs": {
       "full_name": "Full Name",
@@ -66,6 +96,7 @@
       "create_staff": "Create Staff",
       "phone_number": "Phone number",
       "password": "Password",
+      "edit_staff": "Edit Staff",
       "student": {
         "active_students": "Active Students"
       },
@@ -75,8 +106,11 @@
         "date": "Date",
         "add_payment": "Add Payment",
         "amount": "Amount"
-      }
-    }
+      },
+      "sender": "Sender",
+      "send_sms": "Send SMS"
+    },
+    "success_send_sms": "SMS Success Send "
   },
   "validation": {
     "please_fill_out_the_field": "Please fill out the field!",
@@ -93,7 +127,9 @@
     "trial_period": "Trial Period",
     "delete": "Delete",
     "male": "Male",
-    "female": "Female"
+    "female": "Female",
+    "update": "Update",
+    "cancel": "Cancel"
   },
   "sidebar": {
     "companies": "Companies",
@@ -102,7 +138,18 @@
     "logout": "Logout"
   },
   "notification": {
-    "notification": "Notification"
+    "notification": "Notification",
+    "add_new": "Add New",
+    "blog_not_existed": "Blog Not Existed",
+    "add_blog": "Add Blog",
+    "title": "Title",
+    "select_company": "Select Company",
+    "create_blog": "Create Blog",
+    "enter_blog_title": "Enter Blog Title",
+    "edit_blog": "Edit Blog",
+    "update_blog": "Update Blog",
+    "are_you_sure_to_delete": "Are you sure to delete",
+    "blog_success_deleted": "Blog Success Deleted"
   },
   "header": {
     "languages": "Languages"

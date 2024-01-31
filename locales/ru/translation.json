@@ -9,7 +9,28 @@
     "active": "Aктивный",
     "frozen": "Замороженный",
     "deleted": "Удаленный",
-    "trial_period": "Испытательный срок"
+    "trial_period": "Испытательный срок",
+    "from_date": "С даты",
+    "date_to": "Дата до",
+    "january": "январь",
+    "february": "февраль",
+    "march": "Маршировать",
+    "april": "апрель",
+    "May": "Может",
+    "june": "Июнь",
+    "july": "Июль",
+    "august": "Август",
+    "september": "Сентябрь",
+    "october": "Октябрь",
+    "november": "ноябрь",
+    "december": "Декабрь",
+    "companies": "Компании",
+    "student": "Студент",
+    "staff": "Персонал",
+    "companies_using_edops": "Компании, использующие EDOPS",
+    "Students": "Студенты",
+    "all_students_in_companies": "Все студенты в компаниях",
+    "all_employees_in_companies": "Все сотрудники компаний"
   },
   "companies": {
     "home": "Основной",
@@ -28,7 +49,9 @@
     "about_company": "О компании",
     "company_logo": "Логотип компании",
     "create_new_company": "Создать новую компанию",
-    "freeze_btn": "Заморозить"
+    "freeze_btn": "Заморозить",
+    "company_created_successfully": "Компания успешно создана",
+    "company_update_successfully": "Обновление компании успешно выполнено"
   },
   "company": {
     "courses": "Kурсы",
@@ -51,7 +74,12 @@
       "created_at": "Создано в",
       "action": "действие",
       "add_branches": "Добавить филиалы",
-      "create_new_branch": "Создать новую ветку"
+      "create_new_branch": "Создать новую ветку",
+      "success_created_branch": "Филиал успешно создан",
+      "branch_successfully_updated": "Ветка успешно обновлена",
+      "edit_branch": "Редактировать ветку",
+      "update": "Обновлять",
+      "are_you_sure_to_delete_this_branch": "Вы уверены, что удалите эту ветку?"
     },
     "staffs": {
       "full_name": "Полное имя",
@@ -65,7 +93,9 @@
       "add_staff": "Добавить персонал",
       "create_staff": "Создать персонал",
       "phone_number": "Номер телефона",
-      "password": "Пароль"
+      "password": "Пароль",
+      "employee_is_successfully_created": "Сотрудник успешно создан",
+      "edit_staff": "Редактировать персонал"
     },
     "student": {
       "active_students": "Активные студенты"
@@ -76,7 +106,10 @@
       "date": "Дата",
       "add_payment": "Добавить платеж",
       "amount": "Количество"
-    }
+    },
+    "sender": "Отправитель",
+    "send_sms": "Отправить смс",
+    "success_send_sms": "Отправка СМС об успехе "
   },
   "validation": {
     "please_fill_out_the_field": "Пожалуйста, заполните поле!",
@@ -93,7 +126,9 @@
     "trial_period": "Испытательный срок",
     "delete": "удалить",
     "male": "Мужской",
-    "female": "Женский"
+    "female": "Женский",
+    "update": "Обновлять",
+    "cancel": "Отмена"
   },
   "sidebar": {
     "companies": "Компании",
@@ -102,7 +137,18 @@
     "logout": "Выйти"
   },
   "notification": {
-    "notification": "Уведомление"
+    "notification": "Уведомление",
+    "add_new": "Добавить новое",
+    "blog_not_existed": "Блог не существует",
+    "add_blog": "Добавить блог",
+    "title": "Заголовок",
+    "select_company": "Выберите компанию",
+    "create_blog": "Создать блог",
+    "enter_blog_title": "Введите название блога",
+    "edit_blog": "Редактировать блог",
+    "update_blog": "Обновить блог",
+    "are_you_sure_to_delete": "Вы уверены, что удалите",
+    "blog_success_deleted": "Успех блога удален"
   },
   "header": {
     "languages": "Языки"

@@ -9,7 +9,28 @@
     "active": "Faol",
     "frozen": "Muzlatilgan",
     "deleted": "O'chirilgan",
-    "trial_period": "Sinov muddatida"
+    "trial_period": "Sinov muddatida",
+    "from_date": "Boshlanish Sanasi",
+    "date_to": "Tugash Sanasi",
+    "january": "Yanvar",
+    "february": "Fevral",
+    "march": "Mart",
+    "april": "Aprel",
+    "May": "May",
+    "june": "Iyun",
+    "july": "Iyul",
+    "august": "Avgust",
+    "september": "Sentyabr",
+    "october": "Oktyabr",
+    "november": "Noyabr",
+    "december": "Dekabr",
+    "companies": "Kompaniyalar",
+    "student": "Talaba",
+    "staff": "Xodimlar",
+    "companies_using_edops": "EDOPS dan foydalanadigan kompaniyalar",
+    "Students": "Talabalar",
+    "all_students_in_companies": "Kompaniyalardagi barcha talabalar",
+    "all_employees_in_companies": "Kompaniyalardagi barcha xodimlar"
   },
   "companies": {
     "home": "Asosiy",
@@ -28,7 +49,9 @@
     "about_company": "Kompaniya haqida",
     "company_logo": "Kompaniya logotipi",
     "create_new_company": "Yangi kompaniya yarating",
-    "freeze_btn": "Muzlatish"
+    "freeze_btn": "Muzlatish",
+    "company_created_successfully": "Kompaniya muvaffaqiyatli yaratildi",
+    "company_update_successfully": "Kompaniya muvaffaqiyatli yangilandi"
   },
   "company": {
     "courses": "Kurslar",
@@ -51,7 +74,13 @@
       "created_at": "Yaratilgan",
       "action": "Ammallar",
       "add_branches": "Filiallarni qo'shish",
-      "create_new_branch": "Yangi Filial Yaratish"
+      "create_new_branch": "Yangi Filial Yaratish",
+      "success_created_branch": "Filial Muvaffaqiyatli yaratildi",
+      "branch_successfully_updated": "Filial muvaffaqiyatli yangilandi",
+      "edit_branch": "Filialni tahrirlash",
+      "update": "Yangilash",
+      "branch_successfully_deleted": "Filial muvaffaqiyatli oʻchirildi",
+      "are_you_sure_to_delete_this_branch": "Bu filialni oʻchirib tashlashingizga ishonchingiz komilmi"
     },
     "staffs": {
       "full_name": "To'liq ism",
@@ -65,7 +94,9 @@
       "add_staff": "Xodimlarni qo'shish",
       "create_staff": "Xodimlarni yaratish",
       "phone_number": "Telefon raqami",
-      "password": "Parol"
+      "password": "Parol",
+      "employee_is_successfully_created": "Xodim muvaffaqiyatli yaratilgan",
+      "edit_staff": "Xodimlarni tahrirlash"
     },
     "student": {
       "active_students": "Faol talabalar"
@@ -76,7 +107,9 @@
       "date": "Sana",
       "add_payment": "To'lovni qo'shish",
       "amount": "Miqdori"
-    }
+    },
+    "sender": "Yuboruvchi",
+    "send_sms": "SMS yuboring"
   },
   "validation": {
     "please_fill_out_the_field": "Maydonni toʻldiring!",
@@ -93,7 +126,9 @@
     "trial_period": "Sinov muddatida",
     "delete": "O'chirish",
     "male": "Erkak",
-    "female": "Ayol"
+    "female": "Ayol",
+    "update": "Yangilash",
+    "cancel": "Bekor qilish"
   },
   "sidebar": {
     "companies": "Kompaniyalar",
@@ -102,7 +137,18 @@
     "logout": "Chiqish"
   },
   "notification": {
-    "notification": "Bildirishnoma"
+    "notification": "Bildirishnoma",
+    "add_new": "Yangi qo'shish",
+    "blog_not_existed": "Blog mavjud emas",
+    "add_blog": "Blog qo'shish",
+    "title": "Sarlavha",
+    "select_company": "Kompaniyani tanlang",
+    "create_blog": "Blog yaratish",
+    "enter_blog_title": "Blog sarlavhasini kiriting",
+    "edit_blog": "Blogni tahrirlash",
+    "update_blog": "Blogni yangilash",
+    "are_you_sure_to_delete": "Oʻchirib tashlashingizga ishonchingiz komilmi",
+    "blog_success_deleted": "Blog muvaffaqiyati oʻchirildi"
   },
   "header": {
     "languages": "Tillar"
